@@ -1,4 +1,4 @@
-USE REFORCO;
+ USE REFORCO;
 INSERT INTO Cliente (Nome) VALUES
 	('ALUISIO MNAFORD'),
 	('Padrao3');
