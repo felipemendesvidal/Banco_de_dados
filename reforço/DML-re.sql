@@ -1,0 +1,13 @@
+USE REFORCO;
+INSERT INTO Cliente (Nome) VALUES
+	('ALUISIO MNAFORD'),
+	('Padrao3');
+
+
+INSERT INTO Colaborador(Nome,SALARIO) VALUES 
+	('FUNFOU ','6MIL');
+	
+	
+
+INSERT INTO Item(Descricao) VALUES
+	('LIMPEZA FUNFOU');
